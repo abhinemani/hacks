@@ -77,6 +77,11 @@ body {
   font-size: .8em ;
 }
 
+.reveal p a {
+	color: white;
+	font-weight: bold;
+}
+
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
 .reveal video,
